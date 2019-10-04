@@ -4,4 +4,4 @@ ShopDesk provides E-Commerce Services to from the comfort of your desk, so that 
 Creted for Ecom service providing
 # how to use
 - clone the repo
-- open main.html page in broswer
+- open main.html page in broswer.
